@@ -1,0 +1,361 @@
+repo_name: AmeerArsala/bootcamp-project-2022
+report_id: 62b0a3bd53e467e272a37c9bc16479dd
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T04:39:59+00:00'
+requested_by: AmeerArsala
+provider: github
+branch: main
+detected_tools_count: 26
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-11-07 00:07:50.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-11-07 00:07:50.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-11-07 00:07:50.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-11-07 06:36:03.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-11-07 06:36:03.000000000 Z
+- name: "@types/mongoose"
+  description: TypeScript definitions for Mongoose
+  package_url: https://www.npmjs.com/@types/mongoose
+  version: 5.11.97
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16898/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.11.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-11-07 06:36:03.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/frontend/package-lock.json
+  detection_source: milestone-3/frontend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-14 10:12:04.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/AmeerArsala/bootcamp-project-2022/blob/main/milestone-3/backend/package-lock.json
+  detection_source: milestone-3/backend/package.json
+  last_updated_by: Ameer Arsala
+  last_updated_on: 2022-12-10 12:05:10.000000000 Z
